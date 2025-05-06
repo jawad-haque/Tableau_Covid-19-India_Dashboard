@@ -20,4 +20,5 @@ Key Insights:
 Empower decision-makers with actionable insights to drive effective pandemic management. Let's unite data and determination to navigate these challenging times and emerge stronger together. 💪💡
 
 Tableau Link: https://public.tableau.com/views/IndiaCovid-19_17464681631750/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 #COVID19India #DataAnalysis #Tableau #DataVisualization #Dashboard #LinkedInProjects 
